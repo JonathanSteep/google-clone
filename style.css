@@ -41,7 +41,7 @@ nav .nav-right-section a:hover {
 }
 
 nav .nav-right-section .menu-icon {
-    background-image: url(../menu.png);
+    background-image: url('../menu.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 18px;
